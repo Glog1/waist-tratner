@@ -1,0 +1,47 @@
+
+/* font-family: "HelveticaRegular"; */
+@font-face {
+    font-family: "HelveticaRegular";
+    src: url("../fonts/HelveticaRegular/HelveticaRegular.eot");
+    src: url("../fonts/HelveticaRegular/HelveticaRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaRegular/HelveticaRegular.woff") format("woff"),
+    url("../fonts/HelveticaRegular/HelveticaRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "HelveticaBold";
+    src: url("../fonts/HelveticaBold/HelveticaBold.eot");
+    src: url("../fonts/HelveticaBold/HelveticaBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaBold/HelveticaBold.woff") format("woff"),
+    url("../fonts/HelveticaBold/HelveticaBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "HelveticaLight";
+    src: url("../fonts/HelveticaLight/HelveticaLight.eot");
+    src: url("../fonts/HelveticaLight/HelveticaLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaLight/HelveticaLight.woff") format("woff"),
+    url("../fonts/HelveticaLight/HelveticaLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "HelveticaNeue-Medium";
+    src: url("../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.eot");
+    src: url("../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.woff") format("woff"),
+    url("../fonts/HelveticaNeue-Medium/HelveticaNeue-Medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "HelveticaNeue-Regular";
+    src: url("../fonts/HelveticaNeue-Regular/HelveticaNeue-Regular.eot");
+    src: url("../fonts/HelveticaNeue-Regular/HelveticaNeue-Regular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaNeue-Regular/HelveticaNeue-Regular.woff") format("woff"),
+    url("../fonts/HelveticaNeue-Regular/HelveticaNeue-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
